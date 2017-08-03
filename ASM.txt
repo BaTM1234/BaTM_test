@@ -1,0 +1,2 @@
+LDR r1, value : load value into r1
+str r1,[r0] : load value r1 into memory address r0
