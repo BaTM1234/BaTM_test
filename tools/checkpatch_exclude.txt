@@ -1,0 +1,10 @@
+*.mk diff=nodiff
+*.mak diff=nodiff
+*makefile diff=nodiff
+*.sh diff=nodiff
+*.txt diff=nodiff
+*.ld diff=nodiff
+*.cmm diff=nodiff
+*.swcd diff=nodiff
+*.arxml diff=nodiff
+*.bat diff=nodiff
