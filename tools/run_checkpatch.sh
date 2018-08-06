@@ -68,7 +68,6 @@ echo "Running checkpatch"
 echo "-------------------------------------------------------------------------"
 echo
 
-download_checkpatch
 create_patch
 run_checkpatch
 err=$?
